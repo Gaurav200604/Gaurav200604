@@ -72,11 +72,11 @@ const gaurav: Developer = {
 
 <br/>
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Gaurav200604&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gaurav200604&show_icons=true&theme=tokyonight&border_color=7B2FFF&bg_color=0D1117&title_color=00E5FF&icon_color=7B2FFF&text_color=C9D1D9&hide_border=false&rank_icon=github&card_width=320)
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Gaurav200604&theme=tokyonight&border=7B2FFF&background=0D1117&ring=7B2FFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=888)
 
 </td>
 </tr>
@@ -220,17 +220,11 @@ const gaurav: Developer = {
 
 ## 📊 &nbsp; GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav200604&show_icons=true&theme=tokyonight&border_color=7B2FFF&bg_color=050B1A&title_color=00E5FF&icon_color=7B2FFF&text_color=C9D1D9&hide_border=false&rank_icon=github&card_width=430" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav200604&theme=tokyonight&border=7B2FFF&background=050B1A&ring=7B2FFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=888&card_width=430" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200604&layout=compact&theme=tokyonight&border_color=7B2FFF&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="42%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200604&layout=compact&theme=tokyonight&border_color=7B2FFF&bg_color=050B1A&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200604&custom_title=Contribution%20Graph&bg_color=050B1A&color=00E5FF&line=7B2FFF&point=E8E8FF&area=true&area_color=7B2FFF&hide_border=false&border_color=7B2FFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200604&custom_title=Contribution%20Graph&bg_color=0D1117&color=00E5FF&line=7B2FFF&point=E8E8FF&area=true&area_color=7B2FFF&hide_border=false&border_color=7B2FFF" width="98%" />
 
 </div>
 
