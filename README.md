@@ -35,9 +35,11 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 12px;" />
-
 ## 🖥️ &nbsp; whoami
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
 const gaurav: Developer = {
@@ -65,7 +67,20 @@ const gaurav: Developer = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Gaurav200604&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</td>
+</tr>
+</table>
 
 ---
 
