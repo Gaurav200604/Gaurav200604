@@ -236,7 +236,7 @@ const gaurav: Developer = {
 
 ## 🧩 &nbsp; LeetCode Stats
 
-[![LeetCode](https://leetcard.jacoblin.cool/gaurvh3?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&border_color=7B2FFF)](https://leetcode.com/gaurvh3)
+[![LeetCode](https://leetcard.jacoblin.cool/gaurvh3?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&border_color=7B2FFF)]([https://leetcode.com/gaurvh3](https://leetcode.com/u/Gaurav_200604/))
 
 </div>
 
